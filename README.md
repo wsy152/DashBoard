@@ -3,7 +3,7 @@ A new Flutter project.
 
 Dashboard em Flutter.
 
-![image](https://user-images.githubusercontent.com/35712346/95238769-5e3c2200-07e0-11eb-9d79-be6efaed194b.png)
+![image](https://user-images.githubusercontent.com/35712346/95239258-110c8000-07e1-11eb-9c4b-98f748016198.png)
 
 
 
