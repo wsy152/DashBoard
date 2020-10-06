@@ -3,7 +3,7 @@ A new Flutter project.
 
 Dashboard em Flutter.
 
-https://github.com/wsy152/DashBoard/issues/1#issue-715879923
+![image](https://user-images.githubusercontent.com/35712346/95238769-5e3c2200-07e0-11eb-9d79-be6efaed194b.png)
 
 
 
