@@ -4,6 +4,7 @@ A new Flutter project.
 Dashboard em Flutter.
 
 ![image](https://user-images.githubusercontent.com/35712346/95239258-110c8000-07e1-11eb-9c4b-98f748016198.png)
+![image](https://user-images.githubusercontent.com/35712346/95254653-977f8c80-07f6-11eb-9e0a-1169ebbfd900.png)
 
 
 
